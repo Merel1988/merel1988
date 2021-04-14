@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Merel!
+
+- 🏢 I’m currently working for Linku.
+- 🌱 I’m currently learning PHP
+- 😄 Pronouns: she/her
+
+---
+
 
 <!--
 **Merel1988/merel1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
