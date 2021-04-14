@@ -8,10 +8,8 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-![image](https://user-images.githubusercontent.com/5367253/114741294-e892af00-9d4a-11eb-88ea-3c666219cfb6.png)
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" alt="Ionic Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Wordpress Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="Wordpress Logo" width="50" height="50"/>
 
 ---
 
