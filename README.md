@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Merel!
 
-- 🏢  I’m currently working for Linku.
-- 🌱  Currently learning PHP, and lots of other things
-- 😄  Pronouns: she/her
+- 🏢 &nbsp; I’m currently working for Linku.
+- 🌱 &nbsp; Currently learning PHP, and lots of other things
+- 😄 &nbsp; Pronouns: she/her
 
 ---
 
